@@ -1,4 +1,4 @@
-# 🏏 IPL Analytics Dashboard (2008–2020)
+# 🏏 IPL Analytics Dashboard 
 
 An interactive data analytics dashboard built with Python, Pandas, and Streamlit to explore IPL match data across 13 seasons.
 
